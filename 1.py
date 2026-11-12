@@ -1,5 +1,1 @@
-n = int(input("Enter a number: "))
-r = set(map(int,input().split()))
-b = int(input("Enter another number: "))
-f = set(map(int,input().split()))
-print(len(r.union(f)))
+
